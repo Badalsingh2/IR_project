@@ -1,0 +1,4 @@
+EventID,EventName,Date,Time,Venue,Capacity
+E101,AI Workshop,2025-10-05,10:00,Hall A,50
+E102,Robotics Expo,2025-10-15,14:00,Hall B,100
+E103,Data Science Seminar,2025-10-20,11:00,Hall C,30

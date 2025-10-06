@@ -1,0 +1,5 @@
+BookingID,AttendeeID,EventID,Status
+B001,A001,E101,Registered
+B002,A002,E102,Registered
+B003,A003,E101,Canceled
+B004,A003,E103,Registered
