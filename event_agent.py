@@ -7,7 +7,7 @@ from difflib import get_close_matches
 from datetime import datetime, timedelta
 
 # ----------------- GenAI Setup -----------------
-api_key = "AIzaSyAk_Z96XhUWf_23KtZLF_gvrP7DgsOzL0A"
+api_key = "your-api-key"
 client = genai.Client(api_key=api_key)
 
 # ----------------- Load CSVs -----------------
